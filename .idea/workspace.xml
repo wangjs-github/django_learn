@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="02907055-2b84-438c-8e20-0315c0664dd5" name="Changes" comment="创建app01">
+    <list default="true" id="02907055-2b84-438c-8e20-0315c0664dd5" name="Changes" comment="添加模板">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app01/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/app01/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app01/templates/news/news_index.html" beforeDir="false" afterPath="$PROJECT_DIR$/app01/templates/news/news_index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app01/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/app01/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django_learn/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_learn/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django_learn/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_learn/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +36,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="ProjectId" id="2JTokCuSEJ29DPSie9Fa4v2UFH1" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -51,7 +57,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app01/static/plugins" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Develop\Workspace\github\django_learn\app01\static\plugins" />
+      <recent name="D:\Develop\Workspace\github\django_learn\app01\templates" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="django_learn" type="Python.DjangoServer" factoryName="Django server">
@@ -95,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672113499045</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="添加模板">
+      <created>1672120557736</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1672120557736</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,6 +135,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="创建app01" />
-    <option name="LAST_COMMIT_MESSAGE" value="创建app01" />
+    <MESSAGE value="添加模板" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加模板" />
   </component>
 </project>
